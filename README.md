@@ -2,8 +2,6 @@
 
 ## This work was a collaboration of imran , mustafa , yvonne , mike & anthony
 
-[live link demo(https://anime-app-plum.vercel.app/)]
-
 # Getting Started with Create React App
 
 ## Available Scripts
