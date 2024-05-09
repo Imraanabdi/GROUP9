@@ -135,4 +135,4 @@ const HomepageStyled = styled.div`
     }
 `
 
-export default Homepage
+export default Homepage;
